@@ -1,3 +1,5 @@
+![image](https://assets-global.website-files.com/61155c49f7b752684a9f0584/61201e989ae795462db99155_logo-arvore.svg)
+
 # Eventos de gamificação
 
 Queremos implementar um sistema que processa eventos do sistema de gamificação da Árvore. Nele cada usuário tem uma "conta" com 3 "currencies" diferentes: water_drops, coins e points.
